@@ -5,7 +5,7 @@ API service for cinema management written on Django REST Framework
 Install PostgresSQL and create db
 ```
 git clone https://github.com/4ndyua/cinema-api.git
-cd cinema_API
+cd cinema-api
 python -m venv venv
 venv/scripts/activate
 pip install -r requirements.txt
